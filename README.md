@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # vue-lib-components
 
 ## Project setup
